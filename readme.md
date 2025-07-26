@@ -149,7 +149,7 @@ optimized = optimizer.optimize_parameters(process="离心铸造", target="质量
 
 感谢以下组织的支持：
 
-- 浙江申发滑动轴承股份有限公司
+- 浙江申科滑动轴承科技有限公司
 - 诸暨市鸿源电力机械有限公司
 - 香港科技大学红鸟挑战营
 
